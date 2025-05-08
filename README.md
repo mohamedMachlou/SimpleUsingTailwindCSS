@@ -1,4 +1,7 @@
-# TailwindCss1
+# TailwindCss1nt With Tailwind CSS
+![Image](https://github.com/user-attachments/assets/bbdfab3e-3d50-4e34-8464-a6b5b7eb7dbb)
+
+###Simple Fro
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.7.
 
