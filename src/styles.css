@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Sansation:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+.badge {
+    @apply absolute top-0 flex justify-between p-2 font-bold bg-black text-yellow-500 rounded-br-md;
+}
+
+.card {
+    @apply h-70 w-full mb-5 relative rounded-md  overflow-hidden;
+}
+
+.btn {
+    @apply  font-semibold border-1 rounded-sm px-2.5 py-1 text-red-400 cursor-pointer hover:bg-red-400 hover:text-gray-900 transition ease-out duration-100;
+}
+
+.links {
+    @apply flex  justify-end px-5 py-3;
+}
